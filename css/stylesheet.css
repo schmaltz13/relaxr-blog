@@ -70,6 +70,9 @@ img {
 a {
   text-decoration: none;
 }
+a:visited {
+  color:inherit;
+}
 article {
   border-bottom: solid 1px gray;
   margin-bottom: 50px;
